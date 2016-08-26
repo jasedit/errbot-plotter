@@ -1,0 +1,9 @@
+[Core]
+Name = Plotter
+Module = plotter
+
+[Documentation]
+Description = Interface for plotting data
+
+[Python]
+Version = 2+
